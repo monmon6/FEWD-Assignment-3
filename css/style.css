@@ -123,8 +123,8 @@ button {
 
 footer {
 	display: flex;
-    flex-direction: column;
-    align-items: center;
+    	flex-direction: column;
+    	align-items: center;
 
 	background-color: #121212;
 	padding: 2.5rem 0;
